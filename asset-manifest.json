@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-home-budget/static/css/main.b9bda657.css",
+    "main.js": "/react-home-budget/static/js/main.e89120ad.js",
+    "index.html": "/react-home-budget/index.html",
+    "main.b9bda657.css.map": "/react-home-budget/static/css/main.b9bda657.css.map",
+    "main.e89120ad.js.map": "/react-home-budget/static/js/main.e89120ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9bda657.css",
+    "static/js/main.e89120ad.js"
+  ]
+}
